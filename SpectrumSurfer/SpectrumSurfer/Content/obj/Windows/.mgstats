@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Randy/source/repos/SpectrumSurfer/SpectrumSurfer/Content/CircleSprite.png","C:/Users/Randy/source/repos/SpectrumSurfer/SpectrumSurfer/Content/bin/Windows/CircleSprite.xnb","TextureProcessor","Texture2DContent",4948,38501,0.1203056
+"C:/Users/Randy/source/repos/SpectrumSurfer/SpectrumSurfer/Content/door.png","C:/Users/Randy/source/repos/SpectrumSurfer/SpectrumSurfer/Content/bin/Windows/door.xnb","TextureProcessor","Texture2DContent",70989,1974805,0.0521577
+"C:/Users/Randy/source/repos/SpectrumSurfer/SpectrumSurfer/Content/GroundSprite.png","C:/Users/Randy/source/repos/SpectrumSurfer/SpectrumSurfer/Content/bin/Windows/GroundSprite.xnb","TextureProcessor","Texture2DContent",3737,131157,0.0083466
