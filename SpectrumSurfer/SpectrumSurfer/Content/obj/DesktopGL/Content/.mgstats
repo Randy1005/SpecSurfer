@@ -1,4 +1,0 @@
-Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/Randy/source/repos/SpecSurfer/SpectrumSurfer/SpectrumSurfer/Content/CircleSprite.png","C:/Users/Randy/source/repos/SpecSurfer/SpectrumSurfer/SpectrumSurfer/Content/bin/DesktopGL/Content/CircleSprite.xnb","TextureProcessor","Texture2DContent",4948,38501,0.1439904
-"C:/Users/Randy/source/repos/SpecSurfer/SpectrumSurfer/SpectrumSurfer/Content/door.png","C:/Users/Randy/source/repos/SpecSurfer/SpectrumSurfer/SpectrumSurfer/Content/bin/DesktopGL/Content/door.xnb","TextureProcessor","Texture2DContent",70989,1974805,0.0541489
-"C:/Users/Randy/source/repos/SpecSurfer/SpectrumSurfer/SpectrumSurfer/Content/GroundSprite.png","C:/Users/Randy/source/repos/SpecSurfer/SpectrumSurfer/SpectrumSurfer/Content/bin/DesktopGL/Content/GroundSprite.xnb","TextureProcessor","Texture2DContent",3737,131157,0.0073011
